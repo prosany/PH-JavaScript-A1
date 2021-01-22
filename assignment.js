@@ -2,6 +2,7 @@
 
 // First Project
 function kilometerToMeter(kilometer) {
+    // if the kilometer value is less than or equal to 0 then return this error.
     if (kilometer <= 0) {
         return 'Error! The value of kilometer is less than 1';
     }
