@@ -1,3 +1,5 @@
+// https://github.com/prosany/PH-JavaScript_FirstAssignment
+
 // First Project
 function kilometerToMeter(kilometer) {
     if (kilometer <= 0) {
@@ -8,7 +10,7 @@ function kilometerToMeter(kilometer) {
         return meter;
     }
 }
-var convertValue = kilometerToMeter(1); 
+var convertValue = kilometerToMeter(1);
 
 
 
